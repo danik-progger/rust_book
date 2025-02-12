@@ -2,5 +2,7 @@
 name = "lyatorovskiy_cratesio_14"
 version = "0.1.0"
 edition = "2021"
+description = "Crate from rust book chapter 14"
+license = "MIT"
 
 [dependencies]
