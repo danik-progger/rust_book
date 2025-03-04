@@ -60,18 +60,18 @@ fn main() {
 
     let absent_number: Option<i32> = None;
 
-    // // --- if let
-    // let mut count = 0;
-    // let coin = Coin::Penny;
-    // match coin {
-    //     Coin::Quarter(state) => println!("State quarter from {state:?}!"),
-    //     _ => count += 1,
-    // }
-    // // behaves the same
-    // let mut count = 0;
-    // if let Coin::Quarter(state) = coin {
-    //     println!("State quarter from {state:?}!");
-    // } else {
-    //     count += 1;
-    // }
+    // --- if let
+    let mut count = 0;
+    let coin = Coin::Penny;
+    match coin {
+        Coin::Quarter(state) => println!("State quarter from {state:?}!"),
+        _ => count += 1,
+    }
+    // behaves the same
+    let mut count = 0;
+    if let Coin::Quarter(state) = coin {
+        println!("State quarter from {state:?}!");
+    } else {
+        count += 1;
+    }
 }

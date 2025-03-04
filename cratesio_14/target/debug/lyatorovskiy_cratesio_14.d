@@ -1,1 +1,0 @@
-/Users/danik/Desktop/proga/rs/rust_book/cratesio_14/target/debug/lyatorovskiy_cratesio_14: /Users/danik/Desktop/proga/rs/rust_book/cratesio_14/src/lib.rs /Users/danik/Desktop/proga/rs/rust_book/cratesio_14/src/main.rs

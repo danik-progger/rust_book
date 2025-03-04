@@ -1,9 +1,9 @@
 fn main() {
     // --- will cause error
-    let x = 5;
-    println!("The value of x is: {x}");
-    x = 6;
-    println!("The value of x is: {x}");
+    // let x = 5;
+    // println!("The value of x is: {x}");
+    // x = 6;
+    // println!("The value of x is: {x}");
 
     // --- will work as expected
     let mut x = 5;
@@ -24,14 +24,14 @@ fn main() {
     // The value of x in the inner scope is: 12
     // The value of x is: 6
 
-    // --- tuples
+    // --- TUPLES ---
     let tup: (i32, f32, &str) = (1, 3.14, "hey");
     let (x, y, z) = tup;
     let x1 = tup.0;
     let x2 = tup.1;
     let x3 = tup.2;
 
-    // --- arr
+    // --- ARRAY ---
     let arr = [1, 2, 3, 4];
     let a: [i32; 5] = [1, 2, 3, 4, 5];
     let a = [3; 5]; // [3, 3, 3, 3, 3]
@@ -39,7 +39,7 @@ fn main() {
     let a2 = a[1];
     let a3 = a[2];
 
-    // --- statement expression
+    // --- STATEMENT EXPRESSION ---
     let y = {
         let x = 5;
         x + 1

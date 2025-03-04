@@ -1,0 +1,10 @@
+/Users/danik/Desktop/proga/rs/rust_book/_17/target/debug/deps/libderive_more-bfc3ee12cf801bf7.dylib: /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/lib.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/syn_compat.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/utils.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_assign_like.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_helpers.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_like.rs
+
+/Users/danik/Desktop/proga/rs/rust_book/_17/target/debug/deps/derive_more-bfc3ee12cf801bf7.d: /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/lib.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/syn_compat.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/utils.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_assign_like.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_helpers.rs /Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_like.rs
+
+/Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/lib.rs:
+/Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/syn_compat.rs:
+/Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/utils.rs:
+/Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_assign_like.rs:
+/Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_helpers.rs:
+/Users/danik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-0.99.19/src/add_like.rs:
