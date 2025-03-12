@@ -1,9 +1,5 @@
 /target
-_7_modules/target
-_11_tests/target
-_12_minigrep/target
-_14_crates/target
-_14_crates/adder/target
-_17_/target
+*/target
+*/*/target
 .vscode
 .idea
